@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>C:\source\repos\cutLab\PassValidator\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>C:\source\repos\cutLab\PassValidator\PassValidator.Core.Tests\PassValidator.Core.Tests.csproj</ProjectPath>
+  <FilesToAnalyzePath>C:\source\repos\cutLab\PassValidator\.sonarqube\conf\3\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>C:\source\repos\cutLab\PassValidator\.sonarqube\out\3</OutPath>
+  <ProjectType>Test</ProjectType>
+  <TargetFramework>net10.0</TargetFramework>
+</SonarProjectConfig>

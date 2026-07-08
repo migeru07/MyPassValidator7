@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession>
+  <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="6" minCyclomaticComplexity="6" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+  <Modules>
+    <Module hash="B246C9AE-464B-42C1-B767-D58A3D6CF62E">
+      <ModulePath>PassValidator.Core.dll</ModulePath>
+      <ModuleTime>2026-07-08T11:37:21</ModuleTime>
+      <ModuleName>PassValidator.Core</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\source\repos\cutLab\PassValidator\PassValidator.Core\PassValidatorService.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="6" minCyclomaticComplexity="6" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+          <FullName>PassValidator.Core.PassValidatorService</FullName>
+          <Methods>
+            <Method cyclomaticComplexity="6" nPathComplexity="6" sequenceCoverage="100" branchCoverage="100" isConstructor="False" isGetter="False" isSetter="False" isStatic="True">
+              <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="6" minCyclomaticComplexity="6" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken />
+              <Name>System.Boolean PassValidator.Core.PassValidatorService::Validate(System.String)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="5" uspid="8" ordinal="0" sl="8" sc="1" el="8" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="5" uspid="9" ordinal="1" sl="9" sc="1" el="9" ec="2" bec="4" bev="4" fileid="1" />
+                <SequencePoint vc="3" uspid="10" ordinal="2" sl="10" sc="1" el="10" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="3" uspid="11" ordinal="3" sl="11" sc="1" el="11" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="2" uspid="13" ordinal="4" sl="13" sc="1" el="13" ec="2" bec="2" bev="2" fileid="1" />
+                <SequencePoint vc="1" uspid="14" ordinal="5" sl="14" sc="1" el="14" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="15" ordinal="6" sl="15" sc="1" el="15" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="17" ordinal="7" sl="17" sc="1" el="17" ec="2" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="5" uspid="18" ordinal="8" sl="18" sc="1" el="18" ec="2" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="3" uspid="9" ordinal="0" path="0" offset="7" offsetend="9" sl="9" fileid="1" />
+                <BranchPoint vc="2" uspid="9" ordinal="1" path="1" offset="7" offsetend="20" sl="9" fileid="1" />
+                <BranchPoint vc="3" uspid="9" ordinal="2" path="0" offset="23" offsetend="25" sl="9" fileid="1" />
+                <BranchPoint vc="2" uspid="9" ordinal="3" path="1" offset="23" offsetend="30" sl="9" fileid="1" />
+                <BranchPoint vc="1" uspid="13" ordinal="4" path="0" offset="68" offsetend="70" sl="13" fileid="1" />
+                <BranchPoint vc="1" uspid="13" ordinal="5" path="1" offset="68" offsetend="75" sl="13" fileid="1" />
+              </BranchPoints>
+              <MethodPoint vc="9" uspid="0" p8:type="SequencePoint" ordinal="0" offset="0" sc="0" sl="8" ec="1" el="18" bec="0" bev="0" fileid="1" xmlns:p8="xsi" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

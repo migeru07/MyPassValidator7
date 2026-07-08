@@ -1,0 +1,7 @@
+{
+  "language": "C#",
+  "targetFramework": "net10.0",
+  "assemblyName": "PassValidator.Core",
+  "projectType": "Product",
+  "projectPath": "C:\\source\\repos\\cutLab\\PassValidator\\PassValidator.Core\\PassValidator.Core.csproj"
+}

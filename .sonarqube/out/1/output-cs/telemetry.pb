@@ -1,0 +1,1 @@
+jR]C:\source\repos\cutLab\PassValidator\PassValidator.Core.Tests\PassValidator.Core.Tests.csprojòCSharp14

@@ -1,0 +1,7 @@
+organization=migerusecurity07
+projectKey=migerusecurity07
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.95794
+dashboardUrl=https://sonarcloud.io/dashboard?id=migerusecurity07
+ceTaskId=AZ9EHrshXOxf2CoyPPaU
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ9EHrshXOxf2CoyPPaU
