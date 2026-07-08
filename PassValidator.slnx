@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PassValidator.Core.Tests/PassValidator.Core.Tests.csproj" />
+  <Project Path="PassValidator.Core/PassValidator.Core.csproj" />
+</Solution>
