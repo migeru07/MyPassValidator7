@@ -30,6 +30,14 @@ public class PassValidatorServiceTests
     }
 
     [Fact]
+    public void Validate_WhenPasswordHasNoSpecialCharacters_ShouldReturnFalse()
+    {
+        var service = new PassValidatorService();
+        var result = service.Validate("NoSpecialChars123");
+        Assert.False(result);
+    }
+
+    [Fact]
     public void Validate_WhenPasswordHasNoNumbers_ShouldReturnFalse()
     {
         var service = new PassValidatorService();

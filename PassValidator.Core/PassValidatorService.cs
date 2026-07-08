@@ -14,6 +14,10 @@ public class PassValidatorService
         {
             return false;
         }
+        if (!password.Any(c => !char.IsLetterOrDigit(c)))
+        {
+            return false;
+        }
         return true; 
     }
 }

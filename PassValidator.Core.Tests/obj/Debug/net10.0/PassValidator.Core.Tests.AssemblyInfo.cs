@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassValidator.Core.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2368b9890c7cfbef13fbd800854ead2721ae49ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ac816008926ee6807ec419732f3b9c0348fd85")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassValidator.Core.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassValidator.Core.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
