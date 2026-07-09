@@ -1,1 +1,0 @@
-^RQC:\source\repos\cutLab\PassValidator\PassValidator.Core\PassValidator.Core.csprojòCSharp14

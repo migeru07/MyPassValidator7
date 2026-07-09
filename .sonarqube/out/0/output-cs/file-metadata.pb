@@ -1,5 +1,0 @@
-w
-lC:\source\repos\cutLab\PassValidator\PassValidator.Core\obj\Debug\net10.0\PassValidator.Core.AssemblyInfo.csutf-8y
-nC:\source\repos\cutLab\PassValidator\PassValidator.Core\obj\Debug\net10.0\PassValidator.Core.GlobalUsings.g.csutf-8„
-yC:\source\repos\cutLab\PassValidator\PassValidator.Core\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8X
-OC:\source\repos\cutLab\PassValidator\PassValidator.Core\PassValidatorService.csutf-8
