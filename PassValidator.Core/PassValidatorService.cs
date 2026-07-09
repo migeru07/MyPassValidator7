@@ -1,3 +1,5 @@
+#pragma warning disable S2325 
+
 using System.Linq;
 
 namespace PassValidator.Core;

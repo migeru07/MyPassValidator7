@@ -1,0 +1,24 @@
+# Build results
+[Dd]ebug/
+[Dd]ebug-Public/
+[Rr]elease/
+[Rr]elease-Public/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Tt]est[Rr]esults/
+
+# Tooling and caches
+.vs/
+.sonarqube/
+.sonar/
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.suo
+*.nupkg

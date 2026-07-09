@@ -1,3 +1,5 @@
+#pragma warning disable S2068 // Credentials should not be hard-coded
+
 using Xunit;
 using PassValidator.Core;
 
